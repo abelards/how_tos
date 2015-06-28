@@ -42,7 +42,7 @@ Here are all the parks in Paris:
 - paris.fr - http://parcsetjardins.equipement.paris.fr/
 - wikipedia - http://fr.wikipedia.org/wiki/Liste_des_espaces_verts_de_Paris
 
-* ** Monuments, Places & Museums**
+* **Monuments, Places & Museums**
   - Le Louvre (you'd need a few full days: plan a long trip and ticket, or just go to your favorite things. I like ancient Egypt ^^)
   - Notre-Dame (note the very nice Archaeologic Crypt, underneath the place. Stairs on the opposite side of the place)
   - Versailles (the travel is not obvious: RER C to Versailles Rive Gauche, "porte de Versailles" tram & metro do not lead there)
@@ -54,9 +54,10 @@ Here are all the parks in Paris:
   - Institut du Monde Arabe (museum on arabic culture + café at the rooftop)
 
 * **Parks & walks**
-  - Muséum d'Histoire Naturelle & Jardin des Plantes
+  - Muséum d'Histoire Naturelle & Jardin des Plantes (get pastries and a tea at the Great Mosque)
+  - 10/11th: Canal Saint Martin, from Gare de l'Est to Bastille, then...
   - 12th: Promenade Plantée, from Bastille to Vincennes http://fr.wikipedia.org/wiki/Promenade_plantée
-  - 13th: Parc Montsouris, Cité des Fleurs, Petite Alsace
+  - 13th: Parc Montsouris, Cité des Fleurs, Petite Alsace, Butte aux Cailles
   - 18th: Montmartre
   - 19th: Père Lachaise
   - 19th: La Villette has Cité des Sciences, la Géode, and you can walk the canals to Bastille
@@ -64,7 +65,7 @@ Here are all the parks in Paris:
   - Bagatelle, Jardin d'Acclimatation
 
 * **Entertainment**
-Paris has many theaters, from huge to small. Some websites or beginning artists give you the opportunity of having entrance-free (tip-based) performances.
+Paris has many theaters, from huge to small. Some websites or beginning artists give you the opportunity of having entrance-free (tip-based) performances (in french). Also try
   - Salle Pleyel
   - Opéra
   - Théâtre Athénée
