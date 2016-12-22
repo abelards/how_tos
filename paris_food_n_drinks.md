@@ -28,7 +28,6 @@ These are in my "extra" budget so they're more expensive than normal meal but st
 Plus all the Marais and jazz clubs.
 
 ### Notre-Dame & Île Saint-Louis
-- lesronchons.fr near Notre Dame and the Tour d'Argent (menu: ~50€ without drinks)
 - go for a Berthillon ice-cream on the Île Saint-Louis
 - "Chez Rene" (14 Boulevard Saint-Germain, 75005) a typically french bistro;
     nothing fancy but great value for money. Presidents Mitterrand and Chirac came there.
@@ -37,6 +36,7 @@ Plus all the Marais and jazz clubs.
 ### Elsewhere (Paris is actually a small city)
 - l'Aubrac for Aubrac meat
 - comptoirnippon.com near Montparnasse (japanese teppan-yaki, 25-75€)
+- lecafeducommerce.com (51 rue du Commerce, 75015) M8 commerce & M10 Émile Zola
 - "Bofinger" (5-7 rue de la Bastille, 75004) near the place de la Bastille
      (handy if you want to go out for drinks around Rue de Lappe).
      Ask to be seated under "la coupole". Don't mix up this place with "le Petit Bofinger"
